@@ -9,3 +9,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Links
 
 - Live preview [here](https://cat-script.github.io/results-summary-component)
+
+## Acknowledgments
+
+My solution is based on Kevin Powell's [video](https://www.youtube.com/watch?v=KqFAs5d3Yl8&list=PL4-IK0AVhVjPregcc6pgAIerVqSWaJEM4). I made some modifications, added `scripts.js` to fetch data from `data.json`.
